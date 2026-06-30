@@ -3,7 +3,7 @@
 <h1>Hi 👋 I'm Hamsa Hazem</h1>
 <h3>Aspiring Software Engineer | .NET Developer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&color=3FA9F5&center=true&vCenter=true&width=550&height=60&pause=3000&lines=Learning+.NET+Step+by+Step;Frontend+%26+Backend+Developer;Passionate+About+Web+Development;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&color=FF69B4&center=true&vCenter=true&width=550&height=60&pause=3000&lines=Learning+.NET+Step+by+Step;Frontend+%26+Backend+Developer;Passionate+About+Web+Development;Always+Learning+New+Things"/>
 
 </div>
 
