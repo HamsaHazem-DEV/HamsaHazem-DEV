@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,html,css,git,github,vscode,visualstudio,swagger" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,html,css,git,github,vscode,visualstudio" />
 
 </div>
 
