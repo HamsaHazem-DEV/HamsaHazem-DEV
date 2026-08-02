@@ -40,8 +40,5 @@
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://github.com/HamsaHazem-DEV">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
 
 </div>
